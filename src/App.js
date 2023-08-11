@@ -1,4 +1,5 @@
 import "./App.css";
+import { HashRouter } from "react-router-dom";
 
 const policy = [
   "The privacy of your personal information is very important to us. To better protect your privacy, we provide this document explaining our online and software information practices and the choices you can make about that way your information is collected and used. You are hereby advised that your continued use of any BOOM GAMES product constitutes your acceptance of this Privacy Policy. Any applicable current and prior revisions, and any amendments thereto. This document reflects our Privacy Policy as of August 1, 2023. We reserve the right to amend our Privacy Policy at any time without notice to you, and such amendments will take effect from the date listed in this document. Please check back regularly for updates.",
@@ -18,7 +19,7 @@ const advertisers = [
 ];
 function App() {
   return (
-    <div className="App">
+    <HashRouter>
       <main className="main">
         <h1 className="title">Boom Games</h1>
         <h3 className="description">Privacy Policy</h3>
@@ -47,7 +48,7 @@ function App() {
       <footer>
         <p>Copyright © 2023 BOOM GAMES. All rights reserved.</p>
       </footer>
-    </div>
+      </ HashRouter>
   );
 }
 

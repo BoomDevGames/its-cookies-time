@@ -35,8 +35,12 @@ h5 {
     sans-serif;
   margin: 0;
   margin-bottom: 20px;
+  text-align: center;
 }
 
+p {
+  text-align: center;
+}
 .text {
   text-indent: 3%;
   text-align: justify;
