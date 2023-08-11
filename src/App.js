@@ -19,7 +19,7 @@ const advertisers = [
 ];
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename={process.env.PUBLIC_URL || '/'}>
       <main className="main">
         <h1 className="title">Boom Games</h1>
         <h3 className="description">Privacy Policy</h3>
