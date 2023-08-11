@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/its-cookies-time/static/css/main.14888141.css",
-    "main.js": "/its-cookies-time/static/js/main.f24674a9.js",
-    "static/js/787.a73df29e.chunk.js": "/its-cookies-time/static/js/787.a73df29e.chunk.js",
-    "static/media/Grandstander-Bold.ttf": "/its-cookies-time/static/media/Grandstander-Bold.66f7232c1e5817084635.ttf",
-    "static/media/Grandstander-Regular.ttf": "/its-cookies-time/static/media/Grandstander-Regular.35ba22b5ef982f669b1f.ttf",
-    "index.html": "/its-cookies-time/index.html",
-    "main.14888141.css.map": "/its-cookies-time/static/css/main.14888141.css.map",
-    "main.f24674a9.js.map": "/its-cookies-time/static/js/main.f24674a9.js.map",
-    "787.a73df29e.chunk.js.map": "/its-cookies-time/static/js/787.a73df29e.chunk.js.map"
+    "main.css": "./static/css/main.7d551226.css",
+    "main.js": "./static/js/main.ef187cd6.js",
+    "static/js/787.a73df29e.chunk.js": "./static/js/787.a73df29e.chunk.js",
+    "static/media/Grandstander-Bold.ttf": "./static/media/Grandstander-Bold.66f7232c1e5817084635.ttf",
+    "static/media/Grandstander-Regular.ttf": "./static/media/Grandstander-Regular.35ba22b5ef982f669b1f.ttf",
+    "index.html": "./index.html",
+    "main.7d551226.css.map": "./static/css/main.7d551226.css.map",
+    "main.ef187cd6.js.map": "./static/js/main.ef187cd6.js.map",
+    "787.a73df29e.chunk.js.map": "./static/js/787.a73df29e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14888141.css",
-    "static/js/main.f24674a9.js"
+    "static/css/main.7d551226.css",
+    "static/js/main.ef187cd6.js"
   ]
 }
