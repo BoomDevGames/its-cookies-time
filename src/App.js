@@ -37,7 +37,7 @@ function App() {
               <ul>
                 {advertisers.map(({ name, link }) => (
                   <li>
-                    <p className="text">
+                    <p className="link">
                       {name}: <a href={link}>{link}</a>
                     </p>
                   </li>

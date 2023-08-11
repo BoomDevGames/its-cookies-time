@@ -49,6 +49,7 @@ p {
 
 li {
   list-style: none;
+  display: block;
 }
 
 a {
@@ -59,7 +60,11 @@ footer {
   padding-top: 40px;
 }
 
-@media (max-width: 600) {
+.link {
+  text-align: justify;
+}
+
+@media screen and (max-width: 600px) {
   body {
     padding: 40px 20px;
   }
