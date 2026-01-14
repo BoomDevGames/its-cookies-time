@@ -28,8 +28,8 @@ function App() {
             <p className="text">
               {item}{" "}
               {index === policy.length - 1 && (
-                <a href="mailto:bum.dev.games@gmail.com">
-                  bum.dev.games@gmail.com
+                <a href="mailto:dev.boom.games@gmail.com">
+                  dev.boom.games@gmail.com
                 </a>
               )}
             </p>
